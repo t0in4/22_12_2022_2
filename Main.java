@@ -57,5 +57,9 @@ public class Main {
             It looks like we will soon have more rabbits!""";
 
         // write your code here
+        // создать массив со строками которые ранее инициализированы ascii изображениями животных
+        String[] animals = {......}; 
+        // создать сканер для ввода индекса
+        // вывести изображение
     }
 }
